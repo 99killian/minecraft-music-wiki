@@ -1,8 +1,35 @@
-Category: Cool Bands
+Category: Minecraft Music
+Color: '#52a535'
 ---
-Group: Samalander Songs
+Group: Official Discography
+Directory: official
+Series: 
+- Name: Original Volumes by C418
+  Albums:
+  - Minecraft - Volume Alpha
+  - Minecraft - Volume Beta
+- Name: Update Aquatic Singles
+  Albums:
+  - Axolotl
+  - Dragon Fish
+  - Shuniji
+- Name: Update OSTs
+  Albums:
+  - "Minecraft: Nether Update (Original Game Soundtrack)"
+  - "Minecraft: Caves & Cliffs (Original Game Soundtrack)"
+  - "Minecraft: The Wild Update (Original Game Soundtrack)"
+  - "Minecraft: Trails & Tales (Original Game Soundtrack)"
+  - "Minecraft: Tricky Trials (Original Game Soundtrack)"
+- Name: Drop OSTs
+- Name: Legacy Console & Official DLC
+- Name: Adaptations & Spin-Offs
+- Name: Official Youtube Channel
+- Name: Minecraft in Other Games
 Description: |-
-    We aren't quite set up yet! Check out our links though!!
-URLs:
-- https://albatrosssoup.bandcamp.com/track/entrance-of-the-salamanders
-- https://en.wikipedia.org/wiki/Salamander
+    Minecraft's official music releases.
+    <hr class="split">
+    Minecraft was originally made without any sound at all, but in June 2009 C418 released a video of gameplay edited with sound effects, as well as the track calm1.ogg (better known today as "Minecraft") as background music, a track which would become the primary motif in the game's soundtrack. C418 was hired by Notch to write more music for the game and this music was released in Volumes Alpha and Beta. C418 was Minecraft's main composer for almost a decade in addition to Gareth Coker who created most of the soundtracks for the minigames and several mash-up packs in the Legacy Console Editions, and Antimo and Welles, who composed the soundtrack to Story Mode. After releasing 3 singles in 2018 for the Update Aquatic however, C418 left due to disputes with Microsoft and future OSTs were written by other composers such as Lena Raine and Aaron Cherof. From 2020 onwards the vanilla game has recieved a new soundtrack on a yearly basis, themed around the update or drop released at the time, and spin-off games like Minecraft: Dungeons have their own collection of soundtracks. Official music has also been made for DLCs on the Bedrock Edition Marketplace, Minecraft Live shows, crossover events with other games and more.
+---
+Group: Fandom
+---
+Group: Beyond
