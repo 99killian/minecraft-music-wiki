@@ -1,7 +1,13 @@
 Homepage: Homepage
 ---
+Row: actions
+Actions:
+- '[[group-gallery:official|Explore Official!]]'
+- '[[group-gallery:fandom|Explore Fandom!]]'
+- '[[group-gallery:beyond|Explore Beyond!]]'
+---
 Section: New Releases
 ---
 Row: album grid
 Group: new-releases
-Count: 12
+Count: 9
