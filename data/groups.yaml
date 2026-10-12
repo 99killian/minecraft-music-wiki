@@ -35,6 +35,7 @@ Series:
   Albums:
   - "Minecraft: Chinese Mythology (Original Soundtrack)"
   - "Minecraft: Greek Mythology (Original Soundtrack)"
+  - "Minecraft: Norse Mythology (Original Soundtrack)"
 - Name: Adaptations & Spin-Offs
 - Name: Official Youtube Channel
 - Name: Minecraft in Other Games
@@ -46,3 +47,6 @@ Description: |-
 Group: Fandom
 ---
 Group: Beyond
+---
+Group: Additional Tracks
+Exclude From Other Group Album Summaries: true
