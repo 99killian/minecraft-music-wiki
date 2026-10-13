@@ -4,6 +4,9 @@ Color: '#52a535'
 Group: Official Discography
 Directory: official
 Series: 
+- Name: Magnetic Circuit
+  Albums:
+  - Magnetic Circuit
 - Name: Original Volumes by C418
   Albums:
   - Minecraft - Volume Alpha
@@ -36,6 +39,7 @@ Series:
   - "Minecraft: Chinese Mythology (Original Soundtrack)"
   - "Minecraft: Greek Mythology (Original Soundtrack)"
   - "Minecraft: Norse Mythology (Original Soundtrack)"
+  - "Minecraft: Egyptian Mythology Soundtrack"
 - Name: Adaptations & Spin-Offs
 - Name: Official Youtube Channel
 - Name: Minecraft in Other Games
