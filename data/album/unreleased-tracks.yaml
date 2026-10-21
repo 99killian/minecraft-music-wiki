@@ -120,7 +120,7 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=NBBxG9biq1Q
 ---
-Track: Level Up
+Track: XP Level Up
 Duration: 0:01
 Artists:
 - C418
@@ -336,13 +336,21 @@ Track: Wet Hands (Alpha v1.0.14 version)
 Duration: 1:28
 Artists:
 - C418
+Additional Files:
+- Title: In-game audio file
+  Files:
+  - piano2.ogg
 ---
 Track: Mice on Venus (Alpha v1.0.14 version)
 Duration: 1:26
 Artists:
 - C418
+Additional Files:
+- Title: In-game audio file
+  Files:
+  - piano3.ogg
 ---
-Track: Level Up (Old)
+Track: XP Level Up (Old)
 Duration: 0:03
 Artists:
 - C418
@@ -807,5 +815,76 @@ Artists:
 - Gareth Coker
 URLs:
 - https://www.youtube.com/watch?v=xOh1tckXavg
+---
+Section: Tracks featured in Minecraft Story Mode
+---
+Track: The Rise of Johnny Denim
+Artists:
+- Antimo & Welles
+Duration: 2:28
+URLs:
+- https://www.youtube.com/watch?v=zaKBaVFLRqI
+Commentary: |-
+ <i>Killian:</i> (wiki editor)
+ An early version of "Training Montage" that still exists unused in the files
+ <i>Antimo & Welles:</i> (Youtube comment on "Training Montage")
+ dude you're really commenting sensible questions on every track. we did call it that for a minute. when you're writing music with software, you've got to save your project pretty much as soon as you hit upon any good idea. which means you've got to name the project before you've finished really writing the song. we've come up with all sorts of crazy project names over the years (no i'm not going to tell you any!). usually they're stupid, though sometimes they represent a kind of vibe you're aiming for. so just know that johnny denim came from that sorta spirit. i think there was a version of this track that was way over the top 80s sounding, when we were trying to hone in on what worked best, that we named the rise of johnny denim. i'm not sure that the final version had this name. though i really have no idea how we came up with that name. while i was mixing this i had an image in the corner of my monitor of john travolta in very tight jeans, maybe that's where it came from? the only other thing i can say is that deadlines were tight and we weren't sleeping much... and we laughed a lot to deal with the stress -a
+---
+Track: Soren's Song
+Duration: 1:12
+Artists:
+- John Hodgman
+- Mike Choung
+URLs:
+- https://www.youtube.com/watch?v=LWOUOX2EfBU
+Lyrics: |-
+ Gary may seem scary but he’s a swell guy.
+ Sally, dilly dallies, but give her credit, she tries.
+ They might look the same to the untrained eyyyeeee.
+ But that’s a lie and so I say...
+
+ I can’t say it.
+
+ I haven’t had luck with humans.
+ They can be so unkind.
+ But lend a hand to an Enderman...
+ Soon you’ll find you have a frienderman.
+
+ As long as you never look them in the eye.
+ You’ll never have to saay...
+
+ This is proving difficult.
+
+ What’s the End if not a new beginning.
+ Sunset precedes sunrise.
+ And so I say, with tears in my eyes...
+ Farewell...
+
+ What is it? Oh, the singing or the dancing? Uhh, it's both isn't it?
+Commentary: |-
+ <i>Eric Stirpe</i> (Tumblr)
+ One of the reasons I loved working with @hodgman so much on Minecraft: Story Mode was that he was always game for anything, even when we asked him to sing this marvelously silly song (written by Mike Choung).
+
+ Happy Thanksgiving everyone!
+---
+Track: Taste My Bravery
+Artists:
+- Yuri Lowenthal
+- Eric Stirpe
+Lyrics: |-
+ I've got no patience for lateness
+ So never you worry
+ It's time to collate the greatness and schedule the fury
+ Cuz if you're a bad guy, evil or unsavory
+ If you mess with my allies
+ You'll taste my bravery
+ You'll taste my bravery
+Commentary: |-
+ <i>Killian:</i> (wiki editor)
+ This track is now lost media due to the original Vocaroo audio expiring.
+ <i>Eric Stirpe:</i> (Tumblr)
+ Here’s a treat for you guys. After we had so much fun putting together Jack’s song I started writing a song for Radar called “Taste My Bravery.” I got as far as writing the chorus, but things got nuts and we weren’t able to make the whole song happen.
+
+ This is Radar’s actor, Yuri Lowenthal, doing 4 takes of the stuff I wrote and really giving it his all. Enjoy, everyone.
 #---
-#(sounds in official maps/resource packs, spin off game sfx, mg0401?)
+#(sounds in official maps, spin off game sfx)
