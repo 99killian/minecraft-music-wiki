@@ -188,96 +188,10 @@ Artists:
 URLs:
 - https://minecraft.wiki/images/Cave19.ogg?5b34f
 ---
-#(underwater, nether ambience, ambient block noise)
-#---
-Track: Ponder
-Duration: 0:03
-Artists:
-- Samuel Åberg
-URLs:
-- https://minecraft.wiki/w/File:Goat_Horn_Call0.ogg
----
-Track: Sing
-Duration: 0:02
-Artists:
-- Samuel Åberg
-URLs:
-- https://minecraft.wiki/w/File:Goat_Horn_Call1.ogg
----
-Track: Seek
-Duration: 0:06
-Artists:
-- Samuel Åberg
-URLs:
-- https://minecraft.wiki/w/File:Goat_Horn_Call2.ogg
----
-Track: Feel
-Duration: 0:04
-Artists:
-- Samuel Åberg
-URLs:
-- https://minecraft.wiki/w/File:Goat_Horn_Call3.ogg
----
-Track: Admire
-Duration: 0:07
-Artists:
-- Samuel Åberg
-URLs:
-- https://minecraft.wiki/w/File:Goat_Horn_Call4.ogg
----
-Track: Call
-Duration: 0:07
-Artists:
-- Samuel Åberg
-URLs:
-- https://minecraft.wiki/w/File:Goat_Horn_Call5.ogg
----
-Track: Yearn
-Duration: 0:07
-Artists:
-- Samuel Åberg
-URLs:
-- https://minecraft.wiki/w/File:Goat_Horn_Call6.ogg
----
-Track: Dream
-Duration: 0:05
-Artists:
-- Samuel Åberg
-URLs:
-- https://minecraft.wiki/w/File:Goat_Horn_Call7.ogg
----
-Track: Cave 20
-Duration: 0:10
-Artists:
-- Samuel Åberg
-URLs:
-- https://minecraft.wiki/images/Cave20.ogg?5b34f
----
-Track: Cave 21
-Duration: 0:09
-Artists:
-- Samuel Åberg
-URLs:
-- https://minecraft.wiki/images/Cave21.ogg?5b34f
----
-Track: Cave 22
-Duration: 0:05
-Artists:
-- Samuel Åberg
-URLs:
-- https://minecraft.wiki/images/Cave22.ogg?5b34f
----
-Track: Cave 23
-Duration: 0:08
-Artists:
-- Samuel Åberg
-URLs:
-- https://minecraft.wiki/images/Cave23.ogg?5b34f
----
 Track: Basalt deltas ambience
 Duration: 0:43
 Artists:
-- Unknown
+- Samuel Åberg
 URLs:
 - https://minecraft.wiki/images/transcoded/Basalt_deltas_ambience.ogg/Basalt_deltas_ambience.ogg.mp3?be958
 Commentary: |-
@@ -1438,6 +1352,90 @@ URLs:
 Commentary: |-
  <i>Samuel Åberg:</i> ([Dev Diaries #2: Nether Sound](https://www.youtube.com/watch?v=BPJOs8nFMv0))
  The Warped Forest is a really like weird biome. Something in the forest really like disrupts reality. I can't really tell you what's going on. I don't think even music can play in the Warped Forest. I don't know, but maybe the Enderman can tell you what's up.
+---
+Track: Ponder
+Duration: 0:03
+Artists:
+- Samuel Åberg
+URLs:
+- https://minecraft.wiki/w/File:Goat_Horn_Call0.ogg
+---
+Track: Sing
+Duration: 0:02
+Artists:
+- Samuel Åberg
+URLs:
+- https://minecraft.wiki/w/File:Goat_Horn_Call1.ogg
+---
+Track: Seek
+Duration: 0:06
+Artists:
+- Samuel Åberg
+URLs:
+- https://minecraft.wiki/w/File:Goat_Horn_Call2.ogg
+---
+Track: Feel
+Duration: 0:04
+Artists:
+- Samuel Åberg
+URLs:
+- https://minecraft.wiki/w/File:Goat_Horn_Call3.ogg
+---
+Track: Admire
+Duration: 0:07
+Artists:
+- Samuel Åberg
+URLs:
+- https://minecraft.wiki/w/File:Goat_Horn_Call4.ogg
+---
+Track: Call
+Duration: 0:07
+Artists:
+- Samuel Åberg
+URLs:
+- https://minecraft.wiki/w/File:Goat_Horn_Call5.ogg
+---
+Track: Yearn
+Duration: 0:07
+Artists:
+- Samuel Åberg
+URLs:
+- https://minecraft.wiki/w/File:Goat_Horn_Call6.ogg
+---
+Track: Dream
+Duration: 0:05
+Artists:
+- Samuel Åberg
+URLs:
+- https://minecraft.wiki/w/File:Goat_Horn_Call7.ogg
+---
+Track: Cave 20
+Duration: 0:10
+Artists:
+- Samuel Åberg
+URLs:
+- https://minecraft.wiki/images/Cave20.ogg?5b34f
+---
+Track: Cave 21
+Duration: 0:09
+Artists:
+- Samuel Åberg
+URLs:
+- https://minecraft.wiki/images/Cave21.ogg?5b34f
+---
+Track: Cave 22
+Duration: 0:05
+Artists:
+- Samuel Åberg
+URLs:
+- https://minecraft.wiki/images/Cave22.ogg?5b34f
+---
+Track: Cave 23
+Duration: 0:08
+Artists:
+- Samuel Åberg
+URLs:
+- https://minecraft.wiki/images/Cave23.ogg?5b34f
 ---
 Section: Tracks previously featured in Minecraft Java/Bedrock
 ---
