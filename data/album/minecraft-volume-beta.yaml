@@ -195,6 +195,7 @@ Commentary: |-
 ---
 Track: Chirp
 Duration: 3:07
+Color: '#ff0004'
 URLs:
 - https://c418.bandcamp.com/track/chirp
 - https://www.youtube.com/watch?v=haqAwYh5WGw
@@ -203,25 +204,31 @@ Commentary: |-
  “Chirp”, which is where we switch to the records you can find in Minecraft as collectibles. Until we get to…
 ---
 Track: Wait
+Additional Names:
+- where are we now
 Duration: 4:14
+Color: '#638ecb'
 URLs:
 - https://c418.bandcamp.com/track/wait
 - https://www.youtube.com/watch?v=LB_zpWQ45us
 ---
 Track: Mellohi
 Duration: 1:42
+Color: '#b200ff'
 URLs:
 - https://c418.bandcamp.com/track/mellohi
 - https://www.youtube.com/watch?v=12KU49sLA1U
 ---
 Track: Stal
 Duration: 2:32
+Color: '#555555'
 URLs:
 - https://c418.bandcamp.com/track/stal
 - https://www.youtube.com/watch?v=R6AjFn99hGY
 ---
 Track: Strad
 Duration: 3:08
+Color: '#ffffff'
 URLs:
 - https://c418.bandcamp.com/track/strad
 - https://www.youtube.com/watch?v=x6N52XRku8A
@@ -234,24 +241,28 @@ URLs:
 ---
 Track: Ward
 Duration: 4:10
+Color: '#8ec600'
 URLs:
 - https://c418.bandcamp.com/track/ward
 - https://www.youtube.com/watch?v=ARFf0mnEsV4
 ---
 Track: Mall
 Duration: 3:18
+Color: '#9a75ff'
 URLs:
 - https://c418.bandcamp.com/track/mall
 - https://www.youtube.com/watch?v=oIyXfT_-7HY
 ---
 Track: Blocks
 Duration: 5:43
+Color: '#e2543b'
 URLs:
 - https://c418.bandcamp.com/track/blocks
 - https://www.youtube.com/watch?v=0dd5KI2LkKE
 ---
 Track: Far
 Duration: 3:12
+Color: '#00ff90'
 URLs:
 - https://c418.bandcamp.com/track/far
 - https://www.youtube.com/watch?v=J3CD2423Aww

@@ -101,6 +101,7 @@ URLs:
 ---
 Track: "11"
 Duration: 1:11
+Color: '#888888'
 Artists:
 - C418
 URLs:
@@ -140,6 +141,9 @@ Artists:
 - Samuel Åberg
 URLs:
 - https://minecraft.wiki/images/Cave14.ogg?5b34f
+Commentary: |-
+ <i>Samuel Åberg:</i> ([HOW MINECRAFT SOUNDS ARE MADE](https://www.youtube.com/watch?v=4XmJPb4Qt5Y))
+ A good example of the community being really interested in what we do is when I made the Cave Sound 14, I inserted a picture of a Creeper in it. You have to use a program like a spectrogram to see this. I mean, you can hear that it sounds a bit funky, but I thought when we released it in Snapshot, it would take a couple of months until someone found it, but it just took a few minutes and then people immediately got that it was a Creeper inside the sound. I think that's pretty amazing.
 ---
 Track: Cave 15
 Duration: 0:07
@@ -1553,6 +1557,7 @@ URLs:
 ---
 Track: And Action!
 Duration: 1:52
+Color: '#555555'
 Artists:
 - Tone Deaf Rebellion
 - Gabriel Gessie
@@ -1997,7 +2002,7 @@ Lyrics: |-
 
  What is it? Oh, the singing or the dancing? Uhh, it's both isn't it?
 Commentary: |-
- <i>Eric Stirpe</i> (Tumblr)
+ <i>Eric Stirpe:</i> (Tumblr)
  One of the reasons I loved working with @hodgman so much on Minecraft: Story Mode was that he was always game for anything, even when we asked him to sing this marvelously silly song (written by Mike Choung).
 
  Happy Thanksgiving everyone!
@@ -2021,5 +2026,14 @@ Commentary: |-
  Here’s a treat for you guys. After we had so much fun putting together Jack’s song I started writing a song for Radar called “Taste My Bravery.” I got as far as writing the chorus, but things got nuts and we weren’t able to make the whole song happen.
 
  This is Radar’s actor, Yuri Lowenthal, doing 4 takes of the stuff I wrote and really giving it his all. Enjoy, everyone.
+---
+Section: Tracks featured in Minecraft Legends
+---
+Track: Great Hog Base Theme
+Duration: 1:01
+Artists:
+- Crispin Hands
+URLs:
+- https://www.youtube.com/watch?v=ivbOjGUkTlY
 #---
-#(sounds in official maps, spin off game sfx)
+#(sounds in official maps, spin off games)
