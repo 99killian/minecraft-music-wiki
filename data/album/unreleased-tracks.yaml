@@ -168,7 +168,7 @@ URLs:
 Commentary: |-
  <i>Chris Rippy:</i> ([The Life & Times of Video Games: 22 - Wololo](https://lifeandtimes.games/episodes/files/22))
  But then all the voices, that's probably — all the voices in the gamer are pretty much me, and then a completely invented language for that game, for Age of Empires I.
- <i>jeb:</i> ([Meet the Evoker](https://www.minecraft.net/en-us/article/meet-evoker))
+ <i>Jens Bergensten:</i> ([Meet the Evoker](https://www.minecraft.net/en-us/article/meet-evoker))
  When I added the arms for the spellcasting animation it just looked so funny. We were all joking about how it looked like the priests in Age of Empires, so we started making the priest’s “wololo” noise when we saw them holding up their arms. And since Age of Empires is a Microsoft branded IP and we are also a Microsoft IP now, we were able to get the actual sound effect from Age of Empires too – so it’s exactly the same sound effect!
 ---
 Track: Cave 17
@@ -1960,14 +1960,17 @@ Section: Tracks featured in Minecraft Story Mode
 ---
 Track: The Rise of Johnny Denim
 Artists:
-- Antimo & Welles
+- Antimo
+- Welles
+Artist Text: >-
+ [[artist:antimo|Antimo]] & [[artist:welles|Welles]]
 Duration: 2:28
 URLs:
 - https://www.youtube.com/watch?v=zaKBaVFLRqI
 Commentary: |-
  <i>Killian:</i> (wiki editor)
  An early version of "Training Montage" that still exists unused in the files
- <i>Antimo & Welles:</i> (Youtube comment on "Training Montage")
+ <i>Antimo:</i> (Youtube comment on "Training Montage")
  dude you're really commenting sensible questions on every track. we did call it that for a minute. when you're writing music with software, you've got to save your project pretty much as soon as you hit upon any good idea. which means you've got to name the project before you've finished really writing the song. we've come up with all sorts of crazy project names over the years (no i'm not going to tell you any!). usually they're stupid, though sometimes they represent a kind of vibe you're aiming for. so just know that johnny denim came from that sorta spirit. i think there was a version of this track that was way over the top 80s sounding, when we were trying to hone in on what worked best, that we named the rise of johnny denim. i'm not sure that the final version had this name. though i really have no idea how we came up with that name. while i was mixing this i had an image in the corner of my monitor of john travolta in very tight jeans, maybe that's where it came from? the only other thing i can say is that deadlines were tight and we weren't sleeping much... and we laughed a lot to deal with the stress -a
 ---
 Track: Soren's Song
@@ -2092,6 +2095,33 @@ Artists:
 - Crispin Hands
 URLs:
 - https://www.youtube.com/watch?v=ivbOjGUkTlY
+---
+Track: Well of Fate battle phase 1
+Duration: 
+Artists:
+- Crispin Hands
+Additional Files:
+- Title: In-game audio file
+  Files:
+  - well-of-fate-battle-phase-1.ogg
+---
+Track: Well of Fate battle phase 2
+Duration: 
+Artists:
+- Crispin Hands
+Additional Files:
+- Title: In-game audio file
+  Files:
+  - well-of-fate-battle-phase-2.ogg
+---
+Track: Well of Fate battle phase 3
+Duration: 
+Artists:
+- Crispin Hands
+Additional Files:
+- Title: In-game audio file
+  Files:
+  - well-of-fate-battle-phase-3.ogg
 ---
 Section: "Tracks featured in the Sonic Racing: Crossworlds Minecraft track"
 ---
