@@ -60,6 +60,25 @@ Series:
   - "Minecraft: The Copper Age (Original Trailer Score)"
   - "Minecraft: Mounts of Mayhem (Original Trailer Score)"
   - "Minecraft: Chaos Cubed (Original Trailer Score)"
+- Name: LoFi Minecraft Melodies
+  Albums:
+  - "Minecraft: Soothing Synths (Monolism Remix)"
+  - "Minecraft Legends: Laid Back Lutes (Lo-Fi Remix)"
+#  - "Minecraft Dungeons: Tranquil Beats (Lo-Fi Remix)"
+- Name: Soothing Scenes
+  Albums:
+#  - "Minecraft Soothing Scenes: Relaxing Aquarium"
+#  - "Minecraft Soothing Scenes: Relaxing Beach Escape"
+#  - "Minecraft Soothing Scenes: Relaxing Falling Snow"
+#  - "Minecraft Soothing Scenes: Relaxing Fireplace"
+#  - "Minecraft Soothing Scenes: Relaxing Rainy Swamp"
+#  - "Minecraft Soothing Scenes: Relaxing Cherry Grove"
+#  - "Minecraft Soothing Scenes: Dreamy Desert"
+#  - "Minecraft Soothing Scenes: Soothing Story"
+#  - "Minecraft Soothing Scenes: Glowing Cave"
+#  - "Minecraft Soothing Scenes: Serene Snow"
+#  - "Minecraft: Soothing Farm Morning"
+- Name: Pixel Genesis/Drift
 - Name: Minecraft in Other Games
   Albums:
   - Pigstep (Just Dance Version)
@@ -88,6 +107,12 @@ Series:
   Albums:
   - "Minecraft: Chase the Skies (Original Game Soundtrack)"
   - "Minecraft: Chaos Cubed (Original Game Soundtrack)"
+- Name: Chase the Skies
+  Albums:
+  - "Minecraft Live: March 2025 (Original Soundtrack)"
+  - "Minecraft: Chase the Skies (Original Trailer Score)"
+  - "Minecraft: Chase the Skies (Original Game Soundtrack)"
+#  - Happy Ghast Song
 - Name: Tracks played from Music Discs
   Show Artists: all
   Items:
@@ -136,6 +161,18 @@ Series:
   - "Minecraft Dungeons: Echoing Void (Original Game Soundtrack)"
   - "Minecraft Dungeons: Ultimate Additions (Original Game Soundtrack)"
   - Minecraft Dungeons Ultimate Edition Soundtrack
+- Name: Dungeons I + DLC
+  Albums:
+  - Minecraft Dungeons (Original Game Soundtrack)
+  - "Minecraft Dungeons: Jungle Awakens (Original Game Soundtrack)"
+  - "Minecraft Dungeons: Creeping Winter (Original Game Soundtrack)"
+  - "Minecraft Dungeons: Howling Peaks (Original Game Soundtrack)"
+  - "Minecraft Dungeons: Flames of the Nether (Original Game Soundtrack)"
+  - "Minecraft Dungeons: Hidden Depths (Original Game Soundtrack)"
+  - "Minecraft Dungeons: Echoing Void (Original Game Soundtrack)"
+  - "Minecraft Dungeons: Ultimate Additions (Original Game Soundtrack)"
+  - Minecraft Dungeons Ultimate Edition Soundtrack
+- Name: Dungeons II + DLC
 - Name: Legends
   Albums:
   - "Minecraft Legends: A Legend Begins (Original Score)"

@@ -2076,16 +2076,25 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=MaoPJgsb-DE
 ---
-Track: Nether Cellar
-Artists:
-- Unknown
----
 Track: Credits
 Duration: 2:28
 Artists:
 - Peter Hont
 URLs:
 - https://www.youtube.com/watch?v=Wt5UwLczndc
+---
+Track: Nether Cellar
+Duration: 4:38
+Artists:
+- Unknown
+Additional Files:
+- Title: In-game audio file
+  Files:
+  - D4_bgm_env_enwaAAID1-001.OGG
+---
+Track: Sandstone Ruins
+Artists:
+- Unknown
 ---
 Section: Tracks featured in Minecraft Legends
 ---
@@ -2097,7 +2106,7 @@ URLs:
 - https://www.youtube.com/watch?v=ivbOjGUkTlY
 ---
 Track: Well of Fate battle phase 1
-Duration: 
+Duration: 1:01
 Artists:
 - Crispin Hands
 Additional Files:
@@ -2106,7 +2115,7 @@ Additional Files:
   - well-of-fate-battle-phase-1.wav
 ---
 Track: Well of Fate battle phase 2
-Duration: 
+Duration: 1:01
 Artists:
 - Crispin Hands
 Additional Files:
@@ -2115,7 +2124,7 @@ Additional Files:
   - well-of-fate-battle-phase-2.wav
 ---
 Track: Well of Fate battle phase 3
-Duration: 
+Duration: 1:01
 Artists:
 - Crispin Hands
 Additional Files:
